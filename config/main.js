@@ -5,7 +5,7 @@ var subtext = "v1.2"; // set the subtext
 
 // more settings in main.css
 
-
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 
 // END CONFIG
 // DO NOT MODIFY IF YOU DO NOT KNOW WHAT YOUR DOING!
